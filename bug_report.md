@@ -32,7 +32,7 @@ What is your game's resolution?
 Write /info whilst ingame and provide the information you're given.
 
 **Server:**
-What server/community are you from? Main, India, Bangladesh, etc.
+What server/community are you from? Main, Public
 
 **Notes:**
 For anything else noteworthy.
