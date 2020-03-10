@@ -4,11 +4,11 @@ about: "**NOTE THIS IS ONLY FOR BUGS REGARDING THE UIS**
 When filing a bug report make sure to fill in all information as detailed as you possibly can."
 title: '[UI Bug] GIVE ME A TITLE'
 labels: bug, ui
-assignees: Anderzenn
+assignees: Zombie
 ---
 
-# Legacy UI Bug Report
-**Reporter:** (Example: Anderzenn#0069 | https://steamcommunity.com/id/anderzenn)
+# Legends of Roleplay UI Bug Report
+**Reporter:** (Example: Anderzenn#0069 | https://steamcommunity.com/id/Zombiecide_c02)
 Who is reporting this? Please include discord name and your steam profile. 
 
 **Summary:**
