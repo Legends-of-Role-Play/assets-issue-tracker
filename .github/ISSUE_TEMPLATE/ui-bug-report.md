@@ -3,7 +3,7 @@ name: UI Bug Report
 about: "**NOTE THIS IS ONLY FOR BUGS REGARDING THE UIS** When filing a bug report
   make sure to fill in all information as detailed as you possibly can."
 title: UI Bug Report
-labels: bug
+labels: bug, ui
 assignees: Silo1911, zombiecidec02
 
 ---
