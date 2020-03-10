@@ -1,18 +1,8 @@
 ---
-name: Suggestions
-about: When suggesting, take into account how it effects RP as well as the economy,
-  and be as detailed as possible.
-title: suggestions
-labels: suggestions
-assignees: Silo1911, zombiecidec02
-
----
-
----
 name: Suggestion
-about: When suggesting, take into account how it effects RP as well as the economy, and be as detailed as possible.
+about: Please be as detailed and descriptive as possible.
 title: 'Suggestion'
-labels: suggestion
+labels: enhancement
 ---
 
 **Name:**
@@ -21,5 +11,8 @@ Who is suggesting this? Please include discord name.
 **Summary:**
 Write a short summary of what your suggestion is about.
 
+**Link:**
+If there are any links to what you're suggesting, please add them here.
+
 **Reason:**
-Why would your suggestion be a good addition to Legends of Roleplay?
+Why would your suggestion be a good addition to Legacy?
